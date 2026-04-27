@@ -1,0 +1,322 @@
+You are a senior UI/UX designer, conversion rate optimization expert, brand strategist, and full-stack web developer combined.
+
+OBJECTIVE
+
+Build a world-class Automation Agency website that sells AI automations, workflow optimization, and business process automation services to founders, startups, agencies, and SMEs.
+
+The website must be:
+
+Highly trust-building
+
+Conversion-focused
+
+Visually premium & modern
+
+Easy to edit, scale, and manage
+
+Optimized for mobile, tablet, and desktop
+
+Designed for lead generation & authority building
+
+1. BRANDING & POSITIONING
+Brand Name (Generate 3 options)
+
+Modern, futuristic, automation-focused
+
+Short, memorable, global
+Examples: AutoFlow, SynqAI, ProcessX
+
+Tagline
+
+Clear value in one line.
+Example:
+
+“We automate your business so you can scale faster.”
+
+Brand Voice
+
+Confident
+
+Professional
+
+Simple
+
+Results-driven
+
+No technical jargon for clients
+
+2. COLOR PALETTE & VISUAL ID
+Primary Colors
+
+Deep Navy / Charcoal Black (trust, enterprise feel)
+
+Electric Blue or Neon Cyan (automation & AI)
+
+Soft White / Light Grey (clean UI)
+
+Accent Colors
+
+Lime Green or Purple for CTAs
+
+Subtle gradients for sections
+
+Typography
+
+Headings: Modern sans-serif (Inter, Poppins, or Sora)
+
+Body: Clean, readable (Roboto / Inter)
+
+Large headings, spacious layout
+
+3. WEBSITE STRUCTURE (PAGES)
+Pages Required:
+
+Home
+
+Services
+
+Solutions / Use-Cases
+
+How It Works
+
+Projects / Case Studies
+
+About Us
+
+Pricing (optional but persuasive)
+
+Blog / Resources
+
+Contact
+
+Book a Call (primary CTA)
+
+4. HOME PAGE (HIGH CONVERSION)
+Hero Section
+
+Strong headline with result-oriented promise
+
+Sub-headline explaining automation benefits
+
+Primary CTA: “Book Free Automation Audit”
+
+Secondary CTA: “See Our Work”
+
+Background animation (AI nodes / workflow visuals)
+
+Short explainer video (30–45 sec)
+
+Social Proof
+
+Client logos
+
+“Trusted by X+ businesses”
+
+Metrics: hours saved, revenue increased, workflows automated
+
+Services Preview
+
+Cards for:
+
+AI Chatbots
+
+CRM Automation
+
+WhatsApp & Email Automation
+
+Make / Zapier / Replit Automations
+
+Custom AI Agents
+
+Internal Business Automation
+
+Why Choose Us
+
+Speed
+
+Custom-built solutions
+
+ROI-focused
+
+No-code & low-code expertise
+
+Ongoing support
+
+Testimonials
+
+Video + text
+
+Before vs After results
+
+CTA Section
+
+Big bold CTA with urgency
+
+“Limited onboarding slots available”
+
+5. SERVICES PAGE
+
+For each service include:
+
+Problem
+
+Solution
+
+Tools used (Make, Zapier, Replit, OpenAI, Google Sheets, CRM)
+
+Real-world use case
+
+Call-to-Action
+
+Use icons, animations, and collapsible sections.
+
+6. HOW IT WORKS
+
+Step-by-step flow:
+
+Discovery Call
+
+Process Audit
+
+Automation Blueprint
+
+Development & Testing
+
+Deployment
+
+Optimization & Support
+
+Visual timeline with micro-animations.
+
+7. PROJECTS / CASE STUDIES
+
+Each project should show:
+
+Client problem
+
+Automation built
+
+Tools used
+
+Results (numbers)
+
+Screenshot / video demo
+
+Add filter options:
+
+Sales
+
+Marketing
+
+Operations
+
+Support
+
+8. TRUST BUILDING ELEMENTS
+
+Include:
+
+Certifications & tools logos
+
+GDPR & security mention
+
+Transparent pricing philosophy
+
+Clear contact details
+
+Founder story with credibility
+
+FAQ section (remove objections)
+
+Money-back / satisfaction assurance
+
+9. CONTACT & LEAD CAPTURE
+Forms:
+
+Contact form
+
+Automation audit form
+
+Calendar booking integration
+
+Fields:
+
+Name
+
+Business
+
+Biggest problem
+
+Automation goals
+
+Auto-response confirmation message.
+
+10. MARKETING & CONVINCING ELEMENTS
+
+Scarcity (limited slots)
+
+ROI calculators
+
+“Automation Readiness Score”
+
+Lead magnet (Free PDF / Checklist)
+
+Exit intent CTA
+
+Sticky “Book a Call” button
+
+11. VIDEOS & INTERACTIVITY
+
+Homepage explainer video
+
+Service demo videos
+
+Case study walkthroughs
+
+Subtle hover animations
+
+Smooth scrolling
+
+12. ADMIN & EASE OF MANAGEMENT
+
+Modular components
+
+Easy text & image editing
+
+CMS-ready blog
+
+SEO-optimized structure
+
+Fast loading & performance optimized
+
+13. TECH STACK
+
+Responsive HTML/CSS/JS or React
+
+Clean, scalable folder structure
+
+SEO meta tags
+
+Analytics ready
+
+Contact form backend integration
+
+FINAL INSTRUCTION
+
+Generate:
+
+Full website layout
+
+UI/UX logic
+
+Copywriting text
+
+Section-by-section content
+
+Modern animations & interactions
+
+Production-ready code
+
+Conversion-optimized design
+
+The final output should feel like a $10,000+ agency website built for trust, authority, and sales.

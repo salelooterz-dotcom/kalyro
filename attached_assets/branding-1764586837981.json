@@ -1,0 +1,110 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "Outfit",
+      "role": "body"
+    },
+    {
+      "family": "Montserrat",
+      "role": "heading"
+    },
+    {
+      "family": "Lato",
+      "role": "body"
+    },
+    {
+      "family": "Pacifico",
+      "role": "display"
+    }
+  ],
+  "colors": {
+    "primary": "#5252D4",
+    "accent": "#F59E0B",
+    "background": "#FFFFFF",
+    "textPrimary": "#0A0A0A",
+    "link": "#F59E0B"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Outfit",
+      "heading": "Montserrat"
+    },
+    "fontStacks": {
+      "heading": [
+        "Lato"
+      ],
+      "body": [
+        "Outfit"
+      ],
+      "paragraph": [
+        "Outfit"
+      ]
+    },
+    "fontSizes": {
+      "h1": "24px",
+      "h2": "128px",
+      "body": "24px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "8px"
+  },
+  "components": {
+    "input": {
+      "borderColor": "#CCCCCC",
+      "borderRadius": "8px"
+    },
+    "buttonPrimary": {
+      "background": "#1E293B",
+      "textColor": "#FFFFFF",
+      "borderRadius": "9999px",
+      "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(24, 24, 27) 0px 25px 50px -12px"
+    },
+    "buttonSecondary": {
+      "background": "#F8F8F8",
+      "textColor": "#191919",
+      "borderRadius": "8px",
+      "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px"
+    }
+  },
+  "images": {
+    "logo": "File saved at: attached_assets/logo.png",
+    "favicon": "File saved at: attached_assets/favicon.ico",
+    "ogImage": "File saved at: attached_assets/ogImage.svg"
+  },
+  "__framework_hints": [],
+  "__llm_logo_reasoning": {
+    "selectedIndex": 0,
+    "reasoning": "Logo #0 visually represents 'Codestam Technologies' and is located in the header, linking to the homepage, making it the main brand logo.",
+    "confidence": 0.95
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": 2,
+      "text": "Go to store",
+      "reasoning": "Button #2 has a vibrant background color (#1E293B) and action-oriented text ('Go to store'), making it the primary CTA."
+    },
+    "secondary": {
+      "index": 1,
+      "text": "Submit",
+      "reasoning": "Button #1 has a subtle background color (#F8F8F8) and is less prominent compared to the primary button, making it a suitable secondary CTA."
+    },
+    "confidence": 0.95
+  },
+  "personality": {
+    "tone": "modern",
+    "energy": "medium",
+    "targetAudience": "business owners and tenants looking for communication solutions"
+  },
+  "designSystem": {
+    "framework": "tailwind",
+    "componentLibrary": null
+  },
+  "confidence": {
+    "buttons": 0.95,
+    "colors": 0.9,
+    "overall": 0.925
+  }
+}
